@@ -1,2 +1,4 @@
-# helloworld_jan_222
-Github  repository for maven practice
+# maven-project
+
+Simple Maven Project
+<br
