@@ -1,4 +1,4 @@
 # maven-project
 
-Simple Maven Project
+Simple Maven Project for practice only.
 <br
